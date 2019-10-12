@@ -42,4 +42,4 @@ def binary_search(arr, target):
     return -1
 
 
-print(binary_search([20, 30, 40, 50, 60], 50))
+print(binary_search([20, 30, 40, 50, 60], 10))
